@@ -1,0 +1,16 @@
+02 - Problems/*
+!02 - Problems/.gitkeep
+04 - Daily/*
+!04 - Daily/.gitkeep
+05 - Weekly/*
+!05 - Weekly/.gitkeep
+
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/workspaces.json
+.obsidian/cache
+.trash/
+
+.DS_Store
+Thumbs.db
+desktop.ini
